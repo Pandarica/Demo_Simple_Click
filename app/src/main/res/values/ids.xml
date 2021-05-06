@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rgGender" type="id" />
+    <item name="rbFemale" type="id" />
+    <item name="rbMale" type="id" />
+</resources>
